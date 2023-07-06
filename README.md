@@ -12,10 +12,10 @@ Iphone Website 3D Animation using React, ThreeJS (WebGi) &amp; GSAP
 </ul><h2> Preview ⚡️</h2>
 <table align="center">
   <tr>
-    <td><video src="" width=1280 height=800></td>
+    <td><video src="https://github.com/letnagao/iphone-website/assets/99754900/459ccb18-b57f-4543-9066-e7d3e97a549e" width=1280 height=800></td>
   </tr>
 </table>
-     
+
 ## Features 🔥
 ✔️ Use robust high-performance JavaScript animation library <br />
 ✔️ Animate 3D model using WebGi (powered by Three.js) <br />
